@@ -43,8 +43,8 @@ Source code for the website about Song Wang at <span><a rel="noopener noreferrer
 ### Local Installation
 
 ```
-git clone https://github.com/wangsongiam/songwang.io.git
-cd songwang.io
+git clone https://github.com/nathaniel83/song-react-redux-graphql.git
+cd song-react-redux-graphql
 npm i
 npm run dev
 ```
@@ -54,6 +54,3 @@ npm run dev
 - bricolage.io
 - yuppi.es
 - xpchbill.github.io
-
-## License
-MIT © [Song Wang](https://songwang.io)
